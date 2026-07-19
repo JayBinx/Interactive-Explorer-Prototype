@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_IcoCharacter.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Maps/MAP_GameStart.umap",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_Gamemode_InteractiveExplorer.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_IcoCharacterController.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Input/Contexts/IMC_IcoMovement.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BPI_Interactable.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_Test.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_Door.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Input/Contexts/IMC_Interation.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_Hazard.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BPI_Health.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BPI_Destructable.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BPI_Destructible.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Effects/NPE_Explosion.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/UI/WBP_HUD.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BP_HealthComponent.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/UI/WBP_GameOverScreen.uasset",
+				"C:/Users/JayBi/Documents/Game Dev/projects/Unreal Projects/Interactive_Explorer/Content/Blueprints/BPI_.uasset"
+			]
+		}
+	]
+}
